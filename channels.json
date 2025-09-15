@@ -9,78 +9,78 @@
         "id": 2,
         "channelName": "Live 2",
         "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
-        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/2"
+        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/2"
     },
     {
         "id": 3,
         "channelName": "Live 3",
         "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
-        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/3"
+        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/3"
     },
     {
         "id": 4,
         "channelName": "Live 4",
         "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
-        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/4"
+        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/4"
     },
     {
         "id": 5,
         "channelName": "SCC",
         "channelImage": "https://daralhikma.org/images/e/e1/Ssc_sports.png",
-        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/5"
+        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/5"
     },
     {
         "id": 6,
         "channelName": "BeIN 2",
         "channelImage": "http://example.com/images/bein2.jpg",
-        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/6"
+        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/6"
     },
     {
         "id": 7,
         "channelName": "BeIN 3",
         "channelImage": "http://example.com/images/bein3.jpg",
-        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/6"
+        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/6"
     },
     {
         "id": 8,
         "channelName": "BeIN 4",
         "channelImage": "http://example.com/images/bein4.jpg",
-        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/13"
+        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/13"
     },
     {
         "id": 9,
         "channelName": "Premium 1 HD",
         "channelImage": "http://example.com/images/premium1hd.jpg",
-        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/58"
+        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/58"
     },
     {
         "id": 10,
         "channelName": "MBC Drama",
         "channelImage": "http://example.com/images/premium2sd.jpg",
-        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/7"
+        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/7"
     },
     {
         "id": 11,
         "channelName": "الجزيرة الاخبارية",
         "channelImage": "http://example.com/images/الجزيرةالاخبارية.jpg",
-        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/10"
+        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/10"
     },
     {
         "id": 12,
         "channelName": "العربية الحدث",
         "channelImage": "http://example.com/images/العربيةالحدث.jpg",
-        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/8"
+        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/8"
     },
     {
         "id": 13,
         "channelName": "العربية مباشر",
         "channelImage": "http://example.com/images/العربيةمباشر.jpg",
-        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/9"
+        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/9"
     },
     {
         "id": 14,
         "channelName": "Syria",
         "channelImage": "http://example.com/images/syria.jpg",
-        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/38"
+        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/38"
     }
 ]
