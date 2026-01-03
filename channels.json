@@ -18,42 +18,6 @@
         "channelLink": "http://192.168.250.71:25461/android/mmmxxx/4"
     },
     {
-        "id": 4,
-        "channelName": "Live 4",
-        "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
-        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/4"
-    },
-    {
-        "id": 5,
-        "channelName": "SCC",
-        "channelImage": "https://daralhikma.org/images/e/e1/Ssc_sports.png",
-        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/5"
-    },
-    {
-        "id": 6,
-        "channelName": "BeIN 2",
-        "channelImage": "http://example.com/images/bein2.jpg",
-        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/6"
-    },
-    {
-        "id": 7,
-        "channelName": "BeIN 3",
-        "channelImage": "http://example.com/images/bein3.jpg",
-        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/6"
-    },
-    {
-        "id": 8,
-        "channelName": "BeIN 4",
-        "channelImage": "http://example.com/images/bein4.jpg",
-        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/13"
-    },
-    {
-        "id": 9,
-        "channelName": "Premium 1 HD",
-        "channelImage": "http://example.com/images/premium1hd.jpg",
-        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/58"
-    },
-    {
         "id": 10,
         "channelName": "MBC Drama",
         "channelImage": "https://img.favpng.com/0/20/11/mbc-drama-mbc-plus-drama-mbc1-television-png-favpng-NEP95kAREbsgEyinZ4vDdn4Ex.jpg",
