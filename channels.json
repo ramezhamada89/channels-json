@@ -73,14 +73,14 @@
     },
     {
         "id": 13,
-        "channelName": "العربية مباشر",
+        "channelName": "اطفال",
         "channelImage": "http://example.com/images/العربيةمباشر.jpg",
-        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/9"
+        "channelLink": "http://192.168.250.71:25461/android/mmmxxx/9"
     },
     {
         "id": 14,
-        "channelName": "Syria",
+        "channelName": "قرآن",
         "channelImage": "http://example.com/images/syria.jpg",
-        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/38"
+        "channelLink": "http://192.168.250.71:25461/android/mmmxxx/8"
     }
 ]
