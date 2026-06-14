@@ -35,13 +35,7 @@
         "channelImage": "https://m.media-amazon.com/images/I/21XrpXanUcL.png",
         "channelLink": "http://192.168.250.71:25461/android/mmmxxx/5"
     },
-    {
-        "id": 7,
-        "channelName": "اطفال",
-        "channelImage": "http://example.com/images/العربيةمباشر.jpg",
-        "channelLink": "http://192.168.250.71:25461/android/mmmxxx/9"
-    },
-    {
+        {
         "id": 8,
         "channelName": "قرآن",
         "channelImage": "http://example.com/images/syria.jpg",
