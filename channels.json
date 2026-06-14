@@ -11,32 +11,15 @@
         "channelImage": "https://upload.wikimedia.org/wikipedia/ar/thumb/6/69/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7.svg/330px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7.svg.png",
         "channelLink": "http://192.168.169.2:25461/android/mmmxxx/1"
     },
+    
     {
         "id": 3,
-        "channelName": "Syria2",
-        "channelImage": "https://upload.wikimedia.org/wikipedia/ar/thumb/6/69/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7.svg/330px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7.svg.png",
-        "channelLink": "http://192.168.250.71:25461/android/mmmxxx/4"
-    },
-    {
-        "id": 4,
-        "channelName": "MBC Drama",
-        "channelImage": "https://img.favpng.com/0/20/11/mbc-drama-mbc-plus-drama-mbc1-television-png-favpng-NEP95kAREbsgEyinZ4vDdn4Ex.jpg",
-        "channelLink": "http://192.168.250.71:25461/android/mmmxxx/3"
-    },
-    {
-        "id": 5,
-        "channelName": "الجزيرة الاخبارية",
-        "channelImage": "https://instagram.fhty1-2.fna.fbcdn.net/v/t51.2885-19/320787559_824706565308088_432063963574469075_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc5LmMyIn0&_nc_ht=instagram.fhty1-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QG9VNywbKOQBu6DemdnXCB9tJJPBYmoxuc1Yvg06oi6IBVhMdIE1SwmuKsy58czork&_nc_ohc=h6LFY0DIwzUQ7kNvwEiIIxr&_nc_gid=s6v1BRduOClBaekfBEmp-Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfYm-jDfeHvhgxO48IASV1ENZNOQSQF4SPFobaRl2J--oQ&oe=68CD7810&_nc_sid=8b3546",
-        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/10"
-    },
-    {
-        "id": 6,
         "channelName": "العربية الحدث",
         "channelImage": "https://m.media-amazon.com/images/I/21XrpXanUcL.png",
         "channelLink": "http://192.168.250.71:25461/android/mmmxxx/5"
     },
         {
-        "id": 8,
+        "id": 4,
         "channelName": "قرآن",
         "channelImage": "http://example.com/images/syria.jpg",
         "channelLink": "http://192.168.250.71:25461/android/mmmxxx/8"
