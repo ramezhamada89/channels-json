@@ -21,8 +21,21 @@
     
     {
         "id": 4,
-        "channelName": "Allepo 3",
+        "channelName": "Allepo 1",
         "channelImage": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
+        "channelLink": "http://192.168.251.71:25461/android/mmmxxx/1"
+    },
+    {
+        "id": 5,
+        "channelName": "Allepo 2",
+        "channelImage": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
+        "channelLink": "http://192.168.251.71:25461/android/mmmxxx/6"
+    },
+    
+    {
+        "id": 60,
+        "channelName": "Allepo 3",
+        "channelImage": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png1",
         "channelLink": "http://192.168.251.71:25461/android/mmmxxx/4"
     }
 ]
