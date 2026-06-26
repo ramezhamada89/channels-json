@@ -18,10 +18,23 @@
         "channelImage": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
         "channelLink": "http://192.168.250.71:25461/android/mmmxxx/4"
     },
-        {
+    {
         "id": 4,
-        "channelName": "قرآن",
-        "channelImage": "http://example.com/images/syria.jpg",
+        "channelName": "Aleppo 1",
+        "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
         "channelLink": "http://192.168.251.71:25461/android/mmmxxx/1"
+    },
+    {
+        "id": 5,
+        "channelName": "Aleppo 2",
+        "channelImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtMWnXABO7pcF6080qCxgF9tIIEjIfjvv6gg&s",
+        "channelLink": "http://192.168.251.71:25461/android/mmmxxx/6"
+    },
+    
+    {
+        "id": 6,
+        "channelName": "Aleppo 3",
+        "channelImage": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
+        "channelLink": "http://192.168.251.71:25461/android/mmmxxx/4"
     }
 ]
